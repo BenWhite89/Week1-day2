@@ -5,7 +5,7 @@ body {
 h1 {
   position: relative;
   left: 10%;
-  text-decoration-color: #333A2E;
+  text-decoration-color: #384132;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 3em;
   letter-spacing: .1em;
@@ -25,7 +25,7 @@ div.friend p {
   font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
   font-weight: bold;
   border-radius: 5px;
-  background-color: rgba(173, 180, 166, 0.68);
+  background-color: #DBDBCC;
   padding: .2em 0em .2em 0em;
   margin: .5em;
 }
